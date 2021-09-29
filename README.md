@@ -1,6 +1,6 @@
 # Fraggel Rock Crystal Collector
-![crystalMD](./assets/images/crystal-green2.png)
-![crystalMD](./assets/images/crystal-orange2.png)
+![crystalMD](./assets/images/crystal-green2.png =250x)
+![crystalMD](./assets/images/crystal-orange2.png =250x)
 
 This project serves as an example of utilizing jQuery to compile a random number guessing Game.
 
@@ -14,8 +14,8 @@ Get creative and choose a fun theme!
 
 tips that I need to remember: -EACH crystal needs a math random function so that it'll change its value after every win or loss.
 
-![crystalMD](./assets/images/crystal-yellow2%20.png)
-![crystalMD](./assets/images/crystal-purple2.png)
+![crystalMD](./assets/images/crystal-yellow2%20.png =250x)
+![crystalMD](./assets/images/crystal-purple2.png=250x)
 
 
 [Live link](https://kristendlr.github.io/unit-4-game/)
