@@ -14,7 +14,7 @@ tips that I need to remember: -EACH crystal needs a math random function so that
 
 ![Green Crystal]("./assets/images/crystal-green.jpg")
 ![Yellow Crystal]("./assets/images/crystal-yellow.jpg")
-![Purple Crystal]("./assets/images/crystal-purple.jpg")
-![Orange Crustal]("./assets/images/crystal-orannge2.png)
+![Purple Crystal](./assets/images/crystal-purple.jpg)
+![Orange Crustal](https://github.com/KristenDLR/unit-4-game/blob/master/assets/images/crystal-orange.jpg)
 
 [Live link](https://kristendlr.github.io/unit-4-game/)
