@@ -49,12 +49,13 @@ img #title {
 
 p {
   color: white;
-  font-size: 30px;
+  font-size: 40px;
   font-family: "Shadows Into Light", cursive;
 }
 .directions {
   font-family: "Shadows Into Light", cursive;
   color: rgb(206, 192, 83);
+  font-size: 500%;
   text-align: left;
   margin: 30px;
 }
@@ -71,16 +72,24 @@ p {
   font-size: 50px;
   font-display: bold;
   color: rgb(206, 192, 83);
-  background-color: rgba(192, 162, 125, 0.5);
+  background-color: rgba(192, 162, 125, 0.738);
   border-radius: 25px;
+  border: 10px solid sienna;;
   padding: 10px;
+  margin:16px;
 }
-/* .loses {
+.loses {
   min-height: 90px;
-  font-size: 50px;
-  font-display: bold;
-  color: rgb(206, 192, 83);
-} */
+  font-size: 60px;
+  font-display: bolder;
+  color: rgb(188, 34, 34);
+}
+.wins{
+  min-height: 90px;
+  font-size: 60px;
+  font-display: bolder;
+  color: rgb(86, 217, 68);
+}
 
 h1 {
   font-family: "Shadows Into Light", cursive;
