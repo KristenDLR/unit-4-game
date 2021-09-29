@@ -112,3 +112,5 @@ header {
   background-size: 100%;
   padding: 20px;
 }
+
+img[alt=crystalMD] { width: 200px; }
