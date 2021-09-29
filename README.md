@@ -12,8 +12,8 @@ Get creative and choose a fun theme!
 
 tips that I need to remember: -EACH crystal needs a math random function so that it'll change its value after every win or loss.
 
-![Green Crystal]("./assets/images/crystal-green.jpg")
-![Yellow Crystal]("./assets/images/crystal-yellow.jpg")
+![Green Crystal](./assets/images/crystal-green.jpg)
+![Yellow Crystal](https://github.com/KristenDLR/unit-4-game/blob/master/assets/images/crystal-yellow.jpg)
 ![Purple Crystal](./assets/images/crystal-purple.jpg)
 ![Orange Crustal](https://github.com/KristenDLR/unit-4-game/blob/master/assets/images/crystal-orange.jpg)
 
